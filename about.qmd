@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-For Lab 2 of DSCI 521
+For Lab 2 of DSCI 521.
+
+## Intro
+
+Hi! I'm Cindy.
